@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144041021042",
+    "firebase_url": "https://cidade-e4df3.firebaseio.com",
+    "project_id": "cidade-e4df3",
+    "storage_bucket": "cidade-e4df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144041021042:android:f61749a3c28de5a9",
+        "android_client_info": {
+          "package_name": "com.example.cidade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144041021042-4pfda0gt5o1up2svj1eaqvgrcofe7h6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cidade",
+            "certificate_hash": "e2511ddff9bb64d71a8789ca7a868ec5f537fc6a"
+          }
+        },
+        {
+          "client_id": "144041021042-va0btp6pdu1ehv7gam8954k55ohoti65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJNJcMBJ0rc0qaOMGCzSkNWYvLbpt6OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144041021042-va0btp6pdu1ehv7gam8954k55ohoti65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
